@@ -1,0 +1,25 @@
+{
+	"name": "anv-devs/wp-anvato-plugin",
+	"description": "Anvato video plugin for WordPress",
+	"homepage": "https://github.com/anv-devs/wp-anvato-plugin",
+	"keywords": [
+		"php", "anvato", "wordpress"
+	],
+	"license": "GPL-3.0+",
+	"authors": [
+		{
+			"name": "anv-devs",
+			"homepage": "https://github.com/anv-devs"
+		}
+	],
+	"type": "wordpress-plugin",
+	"require": {
+	},
+	"require-dev": {
+	},
+	"autoload": {
+		
+	},
+	"scripts": {
+	}
+}
